@@ -26,7 +26,7 @@ const HomePage = () => {
             </div>
             <div className="home-buttons">
                 <Link to="/register" className="home-btn register-btn">Register</Link>
-                <Link to="/" className="home-btn login-btn">Login</Link>
+                <Link to="/login" className="home-btn login-btn">Login</Link>
             </div>
         </div>
     );
